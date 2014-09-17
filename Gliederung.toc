@@ -1,0 +1,25 @@
+\select@language {german}
+\contentsline {section}{\numberline {1}Einleitung (1S.)}{2}
+\contentsline {section}{\numberline {2}Theorie (3S.)}{2}
+\contentsline {subsection}{\numberline {2.1}Standardmodell}{2}
+\contentsline {subsubsection}{\numberline {2.1.1}Higgsmechanismus}{2}
+\contentsline {subsection}{\numberline {2.2}Higgs-Produktion in Assoziation mit einem Top-Quark-Antiquark-Paar}{2}
+\contentsline {subsection}{\numberline {2.3}Ereignisse mit hohen transversalen Impulsen}{2}
+\contentsline {section}{\numberline {3}Experiment (2S.)}{2}
+\contentsline {subsection}{\numberline {3.1}LHC}{2}
+\contentsline {subsection}{\numberline {3.2}CMS-Experiment}{2}
+\contentsline {section}{\numberline {4}Datens\IeC {\"a}tze (3S.)}{2}
+\contentsline {subsection}{\numberline {4.1}Monte Carlo Simulation}{2}
+\contentsline {subsubsection}{\numberline {4.1.1}Verwendete Monte Carlo Datens\IeC {\"a}tze}{2}
+\contentsline {subsection}{\numberline {4.2}Objektrekonstruktion}{2}
+\contentsline {subsection}{\numberline {4.3}Ereignisselektion}{2}
+\contentsline {section}{\numberline {5}Leptonisolation im Bereich hoher transversaler Energien}{2}
+\contentsline {subsection}{\numberline {5.1}Untersuchung der Leptonisolation in Abh\IeC {\"a}ngigkeit verschiedener Variablen}{3}
+\contentsline {subsection}{\numberline {5.2}Untersuchung des Standardschnitts}{3}
+\contentsline {subsection}{\numberline {5.3}Schlussfolgerung}{3}
+\contentsline {section}{\numberline {6}Verhalten von Single-Lepton-Triggern im Bereich hoher transversaler Energien}{3}
+\contentsline {subsection}{\numberline {6.1}Abh\IeC {\"a}ngigkeit der Triggereffizienz von dem Transversalimpuls der Zerfallsprodukte}{3}
+\contentsline {subsection}{\numberline {6.2}Schlussfolgerung}{3}
+\contentsline {section}{\numberline {7}Zusammenfassung}{3}
+\contentsline {section}{\numberline {8}Quellenangaben}{3}
+\contentsline {section}{\numberline {9}Anhang}{3}
